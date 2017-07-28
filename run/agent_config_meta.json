@@ -1,0 +1,233 @@
+{
+  "keys": "D:\\nodejs\\licblog\\config\\config.default.js",
+  "session": {
+    "key": "D:\\nodejs\\licblog\\config\\config.default.js",
+    "maxAge": "D:\\nodejs\\licblog\\config\\config.default.js",
+    "httpOnly": "D:\\nodejs\\licblog\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\nodejs\\licblog\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "view": {
+    "defaultViewEngine": "D:\\nodejs\\licblog\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "D:\\nodejs\\licblog\\config\\config.default.js"
+    },
+    "root": "D:\\nodejs\\licblog\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\nodejs\\licblog\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\nodejs\\licblog\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "mongoose": {
+    "url": "D:\\nodejs\\licblog\\config\\config.default.js",
+    "options": "D:\\nodejs\\licblog\\config\\config.default.js"
+  },
+  "article": {
+    "page_size": "D:\\nodejs\\licblog\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\nodejs\\licblog\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\nodejs\\licblog\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\nodejs\\licblog\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\nodejs\\licblog\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\nodejs\\licblog\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\nodejs\\licblog\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\nodejs\\licblog\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\nodejs\\licblog\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\nodejs\\licblog\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\nodejs\\licblog\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\nodejs\\licblog\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\nodejs\\licblog\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "D:\\nodejs\\licblog\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\nodejs\\licblog\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\nodejs\\licblog\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\nodejs\\licblog\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\nodejs\\licblog\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\nodejs\\licblog\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\nodejs\\licblog\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\nodejs\\licblog\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\nodejs\\licblog\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\nodejs\\licblog\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\nodejs\\licblog\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\nodejs\\licblog\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\nodejs\\licblog\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\nodejs\\licblog\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\nodejs\\licblog\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\nodejs\\licblog\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\nodejs\\licblog\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\nodejs\\licblog\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\nodejs\\licblog\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "D:\\nodejs\\licblog\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "D:\\nodejs\\licblog\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "D:\\nodejs\\licblog\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "D:\\nodejs\\licblog\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "D:\\nodejs\\licblog\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "main": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "egg-mongoose": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "markdown-it": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "vue": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "vue-resource": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.local.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "coreMiddleware": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\nodejs\\licblog\\node_modules\\egg\\config\\config.default.js"
+}

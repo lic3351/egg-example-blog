@@ -1,0 +1,737 @@
+2017-07-25 23:46:45,538 INFO 5732 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-25 23:46:45,603 INFO 5732 [egg-watcher:agent] watcher start success
+2017-07-25 23:56:20,247 INFO 3992 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-25 23:56:20,313 INFO 3992 [egg-watcher:agent] watcher start success
+2017-07-26 09:14:49,071 INFO 12048 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-26 09:14:49,289 INFO 12048 [egg-watcher:agent] watcher start success
+2017-07-26 09:17:57,732 INFO 12028 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-26 09:17:57,797 INFO 12028 [egg-watcher:agent] watcher start success
+2017-07-26 09:29:34,427 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 09:29:35,258 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:42:53,403 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 09:42:53,945 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:43:34,846 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 09:43:52,452 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 09:43:53,217 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:44:27,012 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 09:44:27,855 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:45:24,723 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 09:45:25,544 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:46:10,518 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 09:46:11,342 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:47:18,193 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 09:47:19,011 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:47:34,277 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 09:47:35,048 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:48:38,609 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 09:48:39,357 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:48:43,145 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 09:48:44,033 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:49:38,342 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 09:49:39,147 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:50:27,213 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 09:50:28,044 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:50:49,011 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 09:50:49,904 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 09:53:44,143 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 09:53:45,057 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:00:59,678 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 10:01:00,596 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:01:06,595 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 10:01:07,481 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:02:21,492 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 10:02:22,591 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:02:25,763 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 10:03:23,730 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 10:03:25,286 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:04:20,741 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:04:22,228 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:04:35,540 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 10:04:37,171 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:05:00,746 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:05:03,074 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:05:18,116 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:05:18,326 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:05:19,366 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:05:20,339 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:05:21,370 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 10:05:22,601 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:19:13,499 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 10:19:14,844 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:19:45,989 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 10:19:47,178 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:20:37,884 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 10:20:38,927 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:23:25,337 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 10:23:30,872 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 10:30:06,480 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:30:12,776 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:37:38,337 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:38:25,297 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 10:39:12,065 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:40:02,559 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:40:38,616 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:41:13,672 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:41:47,633 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 10:42:29,846 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 10:42:58,001 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-26 10:43:36,731 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:43:41,792 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:43:47,567 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:44:09,790 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:44:25,522 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:45:47,795 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:45:48,914 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:46:22,642 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:46:23,781 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:48:10,386 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:48:11,498 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:50:17,480 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:50:18,645 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:53:45,517 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:53:47,080 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:53:51,084 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:53:53,410 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:54:25,342 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:54:26,558 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:56:01,039 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:56:02,356 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:57:51,238 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:57:52,556 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:58:03,018 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:58:04,564 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:58:22,875 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:58:23,956 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:58:54,474 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:58:55,637 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 10:59:31,129 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 10:59:32,294 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:00:03,449 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:00:04,759 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:00:44,376 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:00:45,531 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:00:52,949 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:00:54,095 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:01:35,151 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:01:36,115 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:01:36,250 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:01:37,438 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:01:43,546 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:01:44,954 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:03:53,768 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:03:54,946 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:04:04,806 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:04:06,025 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:04:29,139 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:04:30,386 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:04:42,691 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:04:43,843 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:05:32,295 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:06:16,549 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:06:33,135 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:09:49,038 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:10:07,528 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:13:19,578 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:13:53,870 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:14:53,415 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:15:31,763 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:17:07,850 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:21:44,059 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:26:12,272 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:26:25,326 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:27:46,877 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:27:55,531 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:30:40,155 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:31:26,663 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:31:55,210 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:31:56,482 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:32:40,285 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:32:40,592 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:32:41,561 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:32:50,234 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:33:36,480 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:34:28,116 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:35:11,051 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:35:50,814 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:35:52,154 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:35:53,120 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 11:36:21,678 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-26 11:37:45,602 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:40:41,162 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:40:42,456 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:42:14,976 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:42:16,345 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:45:57,735 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:46:21,323 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:46:43,459 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:47:01,063 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:47:10,488 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:47:38,145 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:48:18,940 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:48:42,368 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 11:48:55,537 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:48:57,049 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:49:47,949 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:49:54,682 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:50:14,395 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:50:14,674 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:50:30,827 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:51:10,075 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:51:11,348 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:51:17,471 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:51:19,232 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:51:45,000 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:51:46,796 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 11:52:29,510 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 11:52:31,064 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 12:14:25,465 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 12:14:26,624 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 12:17:45,890 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 12:17:47,212 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 12:19:31,337 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 12:19:35,375 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 12:19:49,719 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 12:22:54,047 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 12:23:57,106 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 12:24:16,697 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 12:26:30,278 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 12:26:31,417 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 14:01:36,862 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-26 14:01:38,096 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 14:03:56,824 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-26 14:03:58,158 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 14:09:43,742 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 14:09:45,002 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 14:13:07,809 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\config.default.js change
+2017-07-26 14:13:14,115 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\config\plugin.js change
+2017-07-26 14:13:15,320 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:31:58,353 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-26 18:32:00,890 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:37:46,752 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:39:33,236 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:39:34,345 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:40:13,873 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:40:14,958 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:40:52,455 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:40:53,806 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:41:00,762 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:41:01,999 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:41:06,585 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:41:07,938 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:41:16,290 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:41:17,674 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 18:53:25,607 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 18:53:26,789 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 20:51:12,071 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 20:51:13,566 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 20:51:17,139 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 20:51:18,511 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 20:53:05,951 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 20:53:08,033 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 20:53:58,574 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 20:54:00,226 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 20:53:59,986 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 20:54:01,899 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:07:34,885 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:07:36,420 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:10:56,589 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:10:57,777 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:11:01,158 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:11:02,476 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:11:46,801 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:11:48,131 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:16:01,058 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:16:02,719 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:16:38,969 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:16:40,595 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:17:06,617 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:17:08,324 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:17:25,665 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:17:27,076 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:17:27,138 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:17:28,577 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-26 21:24:51,864 WARN 12028 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-26 21:24:53,340 WARN 12028 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 08:34:33,943 INFO 17512 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-27 08:34:34,569 INFO 17512 [egg-mongoose] connecting mongodb://139.159.219.245/licblog
+2017-07-27 08:34:34,604 INFO 17512 [egg-mongoose] starting...
+2017-07-27 08:34:34,722 INFO 17512 [egg-watcher:agent] watcher start success
+2017-07-27 08:34:34,829 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog connected successfully
+2017-07-27 08:34:34,833 INFO 17512 [egg-mongoose] start successfully and server status is ok
+2017-07-27 08:44:35,648 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 08:44:47,516 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 08:45:13,687 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 08:45:25,410 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 09:05:11,982 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 10:13:53,074 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 10:37:41,739 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 10:37:48,920 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 10:39:32,522 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 10:46:42,917 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 10:51:48,323 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 10:57:00,812 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:00:29,074 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:00:38,513 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:00:53,884 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:01:06,901 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:24:00,440 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:26:04,870 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:26:08,873 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:26:42,921 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:36:07,614 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:38:06,528 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:38:20,345 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:38:38,895 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:39:01,259 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:39:38,980 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:40:19,168 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:44:25,469 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:48:36,338 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:49:57,133 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:50:09,525 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:50:16,364 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:50:36,777 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:51:55,308 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:59:12,310 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 11:59:22,795 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:02:49,924 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:03:34,526 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:04:03,590 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:04:08,584 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:04:24,270 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:05:16,756 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:06:30,057 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 12:07:08,570 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 13:08:49,081 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 13:38:19,506 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 14:40:05,002 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 14:55:43,291 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 14:56:01,651 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 15:03:15,146 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 15:03:22,052 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 15:03:56,565 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 15:27:43,734 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 15:44:16,145 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 15:44:17,545 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 15:45:11,710 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 15:45:43,390 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 15:45:44,872 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 15:46:10,839 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 15:46:12,704 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:03:38,301 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 17:05:52,350 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 17:11:25,864 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 17:16:25,542 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 17:30:33,437 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-27 17:30:34,189 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-27 17:30:34,732 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:30:34,810 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-27 17:30:36,289 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:31:10,276 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 17:31:11,582 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:31:32,476 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 17:31:33,707 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:32:15,661 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:33:15,830 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:33:17,141 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:33:22,737 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:33:23,987 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:35:27,921 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-27 17:35:29,250 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:39:47,479 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 17:39:57,475 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 17:40:06,559 INFO 17512 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-27 17:41:59,778 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:42:01,009 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:55:08,239 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:55:09,530 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:55:15,590 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:55:16,980 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:55:32,722 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:55:34,631 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 17:55:48,209 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 17:55:49,909 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:00:32,708 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\model\article.js change
+2017-07-27 18:00:33,992 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:01:07,116 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:01:08,383 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:01:47,084 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:01:48,303 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:02:00,873 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:02:02,100 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:02:11,305 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:02:12,559 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:03:30,790 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:03:32,199 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:08:48,677 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-27 18:08:49,889 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:09:24,099 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-27 18:09:25,337 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:10:45,850 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:10:47,099 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:10:54,285 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:10:55,556 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:26:14,676 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 18:26:16,081 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:27:32,399 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:27:33,804 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:28:21,358 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:28:23,304 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:32:14,875 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:32:16,266 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:32:18,747 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:32:20,516 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:38:18,576 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\extend\helper.js change
+2017-07-27 18:38:19,988 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:40:01,252 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\extend\helper.js change
+2017-07-27 18:40:03,014 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:40:14,266 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\extend\helper.js change
+2017-07-27 18:40:15,566 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:43:36,176 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\extend\helper.js change
+2017-07-27 18:43:37,828 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:43:50,579 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\extend\helper.js change
+2017-07-27 18:43:52,584 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:46:10,564 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\extend\helper.js change
+2017-07-27 18:46:11,971 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:48:16,135 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 18:48:17,398 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:49:09,403 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:49:10,535 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:50:05,661 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:50:06,849 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 18:50:21,383 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 18:50:22,526 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 19:32:58,113 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 19:32:59,869 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 20:41:27,883 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 20:41:33,360 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 20:41:59,321 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 20:43:08,741 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 20:43:10,197 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 20:50:20,707 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 20:50:22,382 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 20:50:22,484 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 20:50:24,028 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 20:50:59,236 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 20:51:00,691 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 20:59:26,469 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 20:59:28,235 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 21:19:50,843 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 21:19:52,693 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 21:21:25,636 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 21:22:48,568 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 21:22:50,161 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 21:25:02,109 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 21:25:03,681 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 21:26:52,969 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 21:26:54,412 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 21:27:05,106 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 21:27:06,558 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 21:27:46,384 WARN 17512 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-27 21:27:47,804 WARN 17512 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 22:34:20,559 INFO 8900 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-27 22:34:21,264 INFO 8900 [egg-mongoose] connecting mongodb://139.159.219.245/licblog
+2017-07-27 22:34:21,309 INFO 8900 [egg-mongoose] starting...
+2017-07-27 22:34:21,443 INFO 8900 [egg-watcher:agent] watcher start success
+2017-07-27 22:34:21,528 INFO 8900 [egg-mongoose] mongodb://139.159.219.245/licblog connected successfully
+2017-07-27 22:34:21,529 INFO 8900 [egg-mongoose] start successfully and server status is ok
+2017-07-27 23:00:05,834 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-27 23:00:07,114 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:00:50,692 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-27 23:00:56,628 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-27 23:02:49,638 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-27 23:02:50,842 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:03:41,509 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-27 23:03:46,622 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-27 23:03:47,896 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:21:48,481 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 23:21:49,736 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:22:39,182 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-27 23:23:30,564 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-27 23:23:31,799 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:23:44,200 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-27 23:24:10,118 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-27 23:24:11,266 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:25:21,709 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 23:25:23,019 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:28:07,939 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-27 23:28:09,486 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:41:20,543 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-27 23:41:21,950 WARN 8900 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-27 23:42:49,713 WARN 8900 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 08:34:28,326 INFO 1376 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-28 08:34:30,106 INFO 1376 [egg-mongoose] connecting mongodb://139.159.219.245/licblog
+2017-07-28 08:34:30,185 INFO 1376 [egg-mongoose] starting...
+2017-07-28 08:34:32,352 INFO 1376 [egg-watcher:agent] watcher start success
+2017-07-28 08:34:32,536 INFO 1376 [egg-mongoose] mongodb://139.159.219.245/licblog connected successfully
+2017-07-28 08:34:32,541 INFO 1376 [egg-mongoose] start successfully and server status is ok
+2017-07-28 08:42:09,886 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 08:42:11,117 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 08:43:16,116 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 08:43:17,319 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 08:44:32,615 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 08:44:33,848 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 08:45:08,266 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 08:45:09,347 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 08:45:26,890 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 08:45:28,266 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 08:46:13,052 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 08:46:14,161 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 08:47:38,975 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 08:47:40,302 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 08:51:44,433 INFO 1376 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 09:22:04,962 INFO 1376 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 09:30:43,734 INFO 1376 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 09:56:55,424 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 09:56:56,677 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 09:57:04,291 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 09:57:05,475 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 09:58:07,115 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 09:58:09,698 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 09:58:10,827 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:00:46,305 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:00:47,475 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:01:44,697 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-28 10:01:46,011 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:03:45,964 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 10:03:47,183 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:04:11,482 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 10:04:12,685 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:04:37,424 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 10:04:38,591 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:05:12,390 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 10:05:13,621 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:05:18,377 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-28 10:05:19,560 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:10:47,146 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 10:10:48,388 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:17:09,882 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 10:17:11,071 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:17:34,180 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:18:35,013 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:18:36,405 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:18:43,213 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:18:44,415 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:18:57,997 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:18:59,201 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:23:12,699 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 10:23:13,968 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:23:24,820 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:24:51,126 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:24:52,368 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:24:54,507 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:24:55,988 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:25:49,070 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:25:50,303 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:26:01,416 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 10:26:02,652 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:51:37,913 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 10:51:38,185 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 10:51:39,093 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:51:40,183 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:55:33,246 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 10:55:34,462 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:58:47,118 WARN 1376 [agent:development] reload worker because D:\nodejs\licblog\app\model\meta.js change
+2017-07-28 10:58:48,242 WARN 1376 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 10:59:36,674 INFO 15804 [egg:logger] init all loggers with options: {"dir":"D:\\nodejs\\licblog\\logs\\licblog","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"licblog-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-28 10:59:37,005 INFO 15804 [egg-mongoose] connecting mongodb://139.159.219.245/licblog
+2017-07-28 10:59:37,043 INFO 15804 [egg-mongoose] starting...
+2017-07-28 10:59:37,054 INFO 15804 [egg-watcher:agent] watcher start success
+2017-07-28 10:59:37,210 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog connected successfully
+2017-07-28 10:59:37,213 INFO 15804 [egg-mongoose] start successfully and server status is ok
+2017-07-28 11:08:29,582 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 11:08:30,723 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:12:41,275 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 11:12:42,413 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:12:51,784 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 11:12:52,940 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:13:01,736 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 11:13:02,984 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:33:49,581 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 11:45:54,593 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 11:46:16,172 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 11:50:18,839 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 11:50:20,112 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:51:22,551 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 11:51:36,165 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 11:51:37,359 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:51:46,344 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 11:51:47,515 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:55:41,459 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 11:55:42,716 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:56:00,582 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 11:56:02,039 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 11:58:15,642 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 11:58:16,951 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:20:37,656 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 13:20:38,885 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:20:44,581 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:20:56,075 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:20:57,183 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:21:14,186 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 13:21:15,459 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:23:23,548 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:23:24,653 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:23:26,119 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:23:27,182 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:23:34,965 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:23:36,088 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:25:27,623 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:25:28,732 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:25:47,707 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:25:48,826 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:27:31,286 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:27:32,461 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:28:03,138 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 13:28:04,299 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:28:52,296 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 13:35:12,768 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 13:35:14,043 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:36:40,307 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:36:59,644 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:37:00,781 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:37:02,394 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:37:03,596 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:40:23,521 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:40:24,680 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:40:31,463 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:40:32,650 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:45:09,718 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:45:10,907 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:45:53,912 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:45:55,087 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:46:35,716 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-28 13:46:36,869 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:46:54,380 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\service\article.js change
+2017-07-28 13:46:55,564 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 13:47:16,637 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 13:47:17,789 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 14:02:48,337 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 14:02:49,624 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 14:08:43,569 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 14:08:44,834 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 14:09:28,862 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 14:11:41,357 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 14:11:42,519 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 14:11:57,463 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 14:11:58,618 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 14:32:57,754 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 14:32:59,038 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 14:33:22,965 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 14:34:25,770 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 15:05:32,755 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 15:07:34,060 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 15:08:16,307 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 15:12:29,429 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:12:30,631 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:14:29,815 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:14:31,032 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:14:32,127 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:14:33,249 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:16:48,730 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:16:49,894 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:16:56,056 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:16:57,236 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:17:21,828 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:17:22,919 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:17:25,522 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:17:26,591 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:19:15,972 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:19:17,039 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:19:18,963 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:19:20,049 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:19:29,845 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:19:30,927 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:20:56,472 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:20:57,680 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:22:39,304 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:22:39,513 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 15:22:40,500 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 15:22:41,533 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:00:21,875 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:00:23,158 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:00:46,717 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:00:47,883 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:01:12,609 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:01:13,768 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:02:25,966 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:02:27,426 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:03:33,450 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:03:35,863 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:04:22,417 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:04:23,794 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:05:13,714 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 17:05:15,001 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:06:22,045 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 17:06:23,335 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:07:26,239 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:07:27,408 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:09:08,158 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:09:09,614 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:10:59,418 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:11:01,839 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:11:27,028 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:11:28,399 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:11:31,959 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:11:33,262 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:11:55,545 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:11:56,864 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:12:15,314 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:12:16,760 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:12:18,698 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:12:19,945 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:17:56,424 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:17:57,830 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:21:42,294 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\service\meta.js change
+2017-07-28 17:21:43,725 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:27:16,145 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:27:17,357 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:34:54,249 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:34:55,446 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:35:54,608 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:35:55,790 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:36:27,770 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:36:27,995 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:36:29,127 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:36:30,381 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:37:39,212 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:37:40,929 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 17:59:37,838 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 17:59:38,979 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:03:48,647 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:03:49,868 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:03:50,438 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:03:51,582 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:06:08,248 INFO 15804 [egg-mongoose] mongodb://139.159.219.245/licblog reconnected successfully
+2017-07-28 18:09:10,360 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 18:09:11,560 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:10:14,942 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\home.js change
+2017-07-28 18:10:16,181 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:12:51,413 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:12:52,647 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:13:30,006 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:13:31,303 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:34:04,749 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 18:34:07,372 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:34:07,727 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 18:34:10,347 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:34:26,739 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 18:34:27,941 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:34:38,735 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\router.js change
+2017-07-28 18:34:39,933 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:35:47,822 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:35:49,025 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:36:51,460 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:36:52,896 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:36:52,648 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:36:54,192 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:37:56,680 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:37:57,951 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:40:01,346 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:40:02,618 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:41:18,619 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:41:19,898 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:42:33,152 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:42:34,264 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-28 18:49:23,282 WARN 15804 [agent:development] reload worker because D:\nodejs\licblog\app\controller\article.js change
+2017-07-28 18:49:26,583 WARN 15804 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer

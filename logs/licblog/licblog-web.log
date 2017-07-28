@@ -1,0 +1,88 @@
+2017-07-27 21:00:09,500 WARN 12668 [-/::1/-/216ms PUT /a/5979bc34638cfa15b84eb877] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2017-07-27 21:00:09,529 WARN 12668 [-/::1/-/245ms PUT /a/5979bc34638cfa15b84eb877] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\nodejs\licblog\node_modules\koa\lib\context.js:89:23)
+    at Object.assertCsrf (D:\nodejs\licblog\node_modules\egg-security\app\extend\context.js:148:17)
+    at Object.csrf (D:\nodejs\licblog\node_modules\egg-security\lib\middlewares\csrf.js:30:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\nodejs\licblog\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:65:19)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+    at Object.toPromise (D:\nodejs\licblog\node_modules\co\index.js:118:63)
+    at next (D:\nodejs\licblog\node_modules\co\index.js:99:29)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:69:7)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+message: 'invalid csrf token'
+pid: 12668
+hostname: Lenovo-PC-lic
+
+2017-07-27 21:00:26,450 WARN 12668 [-/::1/-/2ms PUT /a/5979bc34638cfa15b84eb877] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2017-07-27 21:00:26,453 WARN 12668 [-/::1/-/5ms PUT /a/5979bc34638cfa15b84eb877] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\nodejs\licblog\node_modules\koa\lib\context.js:89:23)
+    at Object.assertCsrf (D:\nodejs\licblog\node_modules\egg-security\app\extend\context.js:148:17)
+    at Object.csrf (D:\nodejs\licblog\node_modules\egg-security\lib\middlewares\csrf.js:30:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\nodejs\licblog\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:65:19)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+    at Object.toPromise (D:\nodejs\licblog\node_modules\co\index.js:118:63)
+    at next (D:\nodejs\licblog\node_modules\co\index.js:99:29)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:69:7)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+message: 'invalid csrf token'
+pid: 12668
+hostname: Lenovo-PC-lic
+
+2017-07-27 21:01:54,673 WARN 12668 [-/::1/-/1ms PUT /a/5979bc34638cfa15b84eb877] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2017-07-27 21:01:54,677 WARN 12668 [-/::1/-/5ms PUT /a/5979bc34638cfa15b84eb877] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\nodejs\licblog\node_modules\koa\lib\context.js:89:23)
+    at Object.assertCsrf (D:\nodejs\licblog\node_modules\egg-security\app\extend\context.js:148:17)
+    at Object.csrf (D:\nodejs\licblog\node_modules\egg-security\lib\middlewares\csrf.js:30:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\nodejs\licblog\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:65:19)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+    at Object.toPromise (D:\nodejs\licblog\node_modules\co\index.js:118:63)
+    at next (D:\nodejs\licblog\node_modules\co\index.js:99:29)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:69:7)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+message: 'invalid csrf token'
+pid: 12668
+hostname: Lenovo-PC-lic
+
+2017-07-28 11:09:52,043 WARN 11988 [-/::1/-/24ms POST /meta] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2017-07-28 11:09:52,050 WARN 11988 [-/::1/-/31ms POST /meta] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (D:\nodejs\licblog\node_modules\koa\lib\context.js:89:23)
+    at Object.assertCsrf (D:\nodejs\licblog\node_modules\egg-security\app\extend\context.js:148:17)
+    at Object.csrf (D:\nodejs\licblog\node_modules\egg-security\lib\middlewares\csrf.js:30:10)
+    at csrf.next (<anonymous>)
+    at Object.<anonymous> (D:\nodejs\licblog\node_modules\koa-compose\index.js:28:19)
+    at Generator.next (<anonymous>)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:65:19)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+    at Object.toPromise (D:\nodejs\licblog\node_modules\co\index.js:118:63)
+    at next (D:\nodejs\licblog\node_modules\co\index.js:99:29)
+    at onFulfilled (D:\nodejs\licblog\node_modules\co\index.js:69:7)
+    at D:\nodejs\licblog\node_modules\co\index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (D:\nodejs\licblog\node_modules\co\index.js:50:10)
+message: 'invalid csrf token'
+pid: 11988
+hostname: Lenovo-PC-lic
+
